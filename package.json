@@ -1,0 +1,25 @@
+{
+  "name": "generator-html5blank",
+  "version": "0.1.1",
+  "description": "",
+  "files": [
+    "app"
+  ],
+  "url": "https://github.com/pibeeckm/generator-html5blank.git",
+  "repository": "pibeeckm/generator-html5blank",
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "dependencies": {
+    "async": "^2.4.0",
+    "fs": "0.0.1-security",
+    "glob": "^7.1.1",
+    "mv": "^2.1.1",
+    "prompt": "^1.0.0",
+    "replace-in-file": "^2.5.0",
+    "request": "^2.81.0",
+    "rimraf": "^2.6.1",
+    "unzip": "^0.1.11",
+    "yeoman-generator": "^1.0.0"
+  }
+}
